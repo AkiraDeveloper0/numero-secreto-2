@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../logica-js-projeto_inicial"
+		},
+		{
+			"path": "../../Desafios/4/logica-js-projeto_inicial"
+		},
+		{
+			"path": "../../Desafios/3/desafio-js-projeto_inicial (2)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "logica-js-projeto_inicial"
+	}
+}
