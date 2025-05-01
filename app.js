@@ -21,7 +21,7 @@ function exibirTextoNaTela(tag, texto) {
 exebirMensagemInicial();
 
 exibirTextoNaTela('h1', 'Escolha um número entre 1 e 10');
-exibirTextoNaTela('p', 'Jogo do Número Secreto');
+exibirTextoNaTela('p', 'O Jogo do Número Secreto');
 
 // Criar uma função que vai verificar o chute que a pessoa deu
 function verificarChute() {
