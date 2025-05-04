@@ -27,7 +27,7 @@ exibirTextoNaTela('p', 'O Jogo do Número Secreto');
 function verificarChute() {
     let chute = document.querySelector('input').value;
     if (chute == numeroSecreto) {
-        exibirTextoNaTela('h1', 'Acertou!');
+        exibirTextoNaTela('h1', 'Acertaste!');
         // Mudar a palavra tentativa ou tentativas
         let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa';
         let mensagemTentativas = `Você descobriu o número secreto com ${tentativas} ${palavraTentativa}`;
